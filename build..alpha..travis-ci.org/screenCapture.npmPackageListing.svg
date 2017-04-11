@@ -1,131 +1,131 @@
 <svg height="2046" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="2046" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-11 11:23:43 +0000  2509671 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-11 11:23:43 +0000     1146 bytes  Dockerfile</tspan>
-<tspan x="10" y="58">  2.  2017-04-11 11:23:43 +0000     4294 bytes  HISTORY.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-11 11:23:43 +0000    13138 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-11 11:23:43 +0000     4161 bytes  app.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-11 11:23:43 +0000      443 bytes  build-assets.json</tspan>
-<tspan x="10" y="122">  6.  2017-04-11 11:23:43 +0000   175943 bytes  build/codemirror-1cf5d807764f361f5011.min.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-11 11:23:43 +0000     9357 bytes  build/collection-b774588cca8f6e9a8c83.min.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-11 11:23:43 +0000    23409 bytes  build/css/bootstrap-theme.min.css</tspan>
-<tspan x="10" y="170">  9.  2017-04-11 11:23:43 +0000    25648 bytes  build/css/bootstrap-theme.min.css.map</tspan>
-<tspan x="10" y="186"> 10.  2017-04-11 11:23:43 +0000   121200 bytes  build/css/bootstrap.min.css</tspan>
-<tspan x="10" y="202"> 11.  2017-04-11 11:23:43 +0000   542194 bytes  build/css/bootstrap.min.css.map</tspan>
-<tspan x="10" y="218"> 12.  2017-04-11 11:23:43 +0000     8217 bytes  build/css/codemirror.css</tspan>
-<tspan x="10" y="234"> 13.  2017-04-11 11:23:43 +0000     1838 bytes  build/css/style.css</tspan>
-<tspan x="10" y="250"> 14.  2017-04-11 11:23:43 +0000     1987 bytes  build/css/theme/3024-day.css</tspan>
-<tspan x="10" y="266"> 15.  2017-04-11 11:23:43 +0000     2076 bytes  build/css/theme/3024-night.css</tspan>
-<tspan x="10" y="282"> 16.  2017-04-11 11:23:43 +0000     1942 bytes  build/css/theme/abcdef.css</tspan>
-<tspan x="10" y="298"> 17.  2017-04-11 11:23:43 +0000      103 bytes  build/css/theme/ambiance-mobile.css</tspan>
-<tspan x="10" y="314"> 18.  2017-04-11 11:23:43 +0000    26468 bytes  build/css/theme/ambiance.css</tspan>
-<tspan x="10" y="330"> 19.  2017-04-11 11:23:43 +0000     2112 bytes  build/css/theme/base16-dark.css</tspan>
-<tspan x="10" y="346"> 20.  2017-04-11 11:23:43 +0000     2114 bytes  build/css/theme/base16-light.css</tspan>
-<tspan x="10" y="362"> 21.  2017-04-11 11:23:43 +0000     1413 bytes  build/css/theme/bespin.css</tspan>
-<tspan x="10" y="378"> 22.  2017-04-11 11:23:43 +0000     1931 bytes  build/css/theme/blackboard.css</tspan>
-<tspan x="10" y="394"> 23.  2017-04-11 11:23:43 +0000     1703 bytes  build/css/theme/cobalt.css</tspan>
-<tspan x="10" y="410"> 24.  2017-04-11 11:23:43 +0000     1647 bytes  build/css/theme/colorforth.css</tspan>
-<tspan x="10" y="426"> 25.  2017-04-11 11:23:43 +0000     2014 bytes  build/css/theme/dracula.css</tspan>
-<tspan x="10" y="442"> 26.  2017-04-11 11:23:43 +0000     2581 bytes  build/css/theme/duotone-dark.css</tspan>
-<tspan x="10" y="458"> 27.  2017-04-11 11:23:43 +0000     2685 bytes  build/css/theme/duotone-light.css</tspan>
-<tspan x="10" y="474"> 28.  2017-04-11 11:23:43 +0000     1159 bytes  build/css/theme/eclipse.css</tspan>
-<tspan x="10" y="490"> 29.  2017-04-11 11:23:43 +0000      781 bytes  build/css/theme/elegant.css</tspan>
-<tspan x="10" y="506"> 30.  2017-04-11 11:23:43 +0000     2254 bytes  build/css/theme/erlang-dark.css</tspan>
-<tspan x="10" y="522"> 31.  2017-04-11 11:23:43 +0000     1469 bytes  build/css/theme/hopscotch.css</tspan>
-<tspan x="10" y="538"> 32.  2017-04-11 11:23:43 +0000     2499 bytes  build/css/theme/icecoder.css</tspan>
-<tspan x="10" y="554"> 33.  2017-04-11 11:23:43 +0000     1442 bytes  build/css/theme/isotope.css</tspan>
-<tspan x="10" y="570"> 34.  2017-04-11 11:23:43 +0000     2599 bytes  build/css/theme/lesser-dark.css</tspan>
-<tspan x="10" y="586"> 35.  2017-04-11 11:23:43 +0000     3930 bytes  build/css/theme/liquibyte.css</tspan>
-<tspan x="10" y="602"> 36.  2017-04-11 11:23:43 +0000     2441 bytes  build/css/theme/material.css</tspan>
-<tspan x="10" y="618"> 37.  2017-04-11 11:23:43 +0000     2112 bytes  build/css/theme/mbo.css</tspan>
-<tspan x="10" y="634"> 38.  2017-04-11 11:23:43 +0000     5167 bytes  build/css/theme/mdn-like.css</tspan>
-<tspan x="10" y="650"> 39.  2017-04-11 11:23:43 +0000     2138 bytes  build/css/theme/midnight.css</tspan>
-<tspan x="10" y="666"> 40.  2017-04-11 11:23:43 +0000     1915 bytes  build/css/theme/monokai.css</tspan>
-<tspan x="10" y="682"> 41.  2017-04-11 11:23:43 +0000      688 bytes  build/css/theme/neat.css</tspan>
-<tspan x="10" y="698"> 42.  2017-04-11 11:23:43 +0000      947 bytes  build/css/theme/neo.css</tspan>
-<tspan x="10" y="714"> 43.  2017-04-11 11:23:43 +0000     1720 bytes  build/css/theme/night.css</tspan>
-<tspan x="10" y="730"> 44.  2017-04-11 11:23:43 +0000     1775 bytes  build/css/theme/panda-syntax.css</tspan>
-<tspan x="10" y="746"> 45.  2017-04-11 11:23:43 +0000     2078 bytes  build/css/theme/paraiso-dark.css</tspan>
-<tspan x="10" y="762"> 46.  2017-04-11 11:23:43 +0000     2078 bytes  build/css/theme/paraiso-light.css</tspan>
-<tspan x="10" y="778"> 47.  2017-04-11 11:23:43 +0000     2450 bytes  build/css/theme/pastel-on-dark.css</tspan>
-<tspan x="10" y="794"> 48.  2017-04-11 11:23:43 +0000     1514 bytes  build/css/theme/railscasts.css</tspan>
-<tspan x="10" y="810"> 49.  2017-04-11 11:23:43 +0000     1772 bytes  build/css/theme/rubyblue.css</tspan>
-<tspan x="10" y="826"> 50.  2017-04-11 11:23:43 +0000     1984 bytes  build/css/theme/seti.css</tspan>
-<tspan x="10" y="842"> 51.  2017-04-11 11:23:43 +0000     5444 bytes  build/css/theme/solarized.css</tspan>
-<tspan x="10" y="858"> 52.  2017-04-11 11:23:43 +0000     1909 bytes  build/css/theme/the-matrix.css</tspan>
-<tspan x="10" y="874"> 53.  2017-04-11 11:23:43 +0000     1769 bytes  build/css/theme/tomorrow-night-bright.css</tspan>
-<tspan x="10" y="890"> 54.  2017-04-11 11:23:43 +0000     2439 bytes  build/css/theme/tomorrow-night-eighties.css</tspan>
-<tspan x="10" y="906"> 55.  2017-04-11 11:23:43 +0000     2419 bytes  build/css/theme/ttcn.css</tspan>
-<tspan x="10" y="922"> 56.  2017-04-11 11:23:43 +0000     2135 bytes  build/css/theme/twilight.css</tspan>
-<tspan x="10" y="938"> 57.  2017-04-11 11:23:43 +0000     2111 bytes  build/css/theme/vibrant-ink.css</tspan>
-<tspan x="10" y="954"> 58.  2017-04-11 11:23:43 +0000     3005 bytes  build/css/theme/xq-dark.css</tspan>
-<tspan x="10" y="970"> 59.  2017-04-11 11:23:43 +0000     2226 bytes  build/css/theme/xq-light.css</tspan>
-<tspan x="10" y="986"> 60.  2017-04-11 11:23:43 +0000     1859 bytes  build/css/theme/yeti.css</tspan>
-<tspan x="10" y="1002"> 61.  2017-04-11 11:23:43 +0000     1990 bytes  build/css/theme/zenburn.css</tspan>
-<tspan x="10" y="1018"> 62.  2017-04-11 11:23:43 +0000     1101 bytes  build/database-a2a6263b2862ba8966c0.min.js</tspan>
-<tspan x="10" y="1034"> 63.  2017-04-11 11:23:43 +0000     1237 bytes  build/document-a23d7614559f854746f3.min.js</tspan>
-<tspan x="10" y="1050"> 64.  2017-04-11 11:23:43 +0000    20127 bytes  build/fonts/glyphicons-halflings-regular.eot</tspan>
-<tspan x="10" y="1066"> 65.  2017-04-11 11:23:43 +0000   108738 bytes  build/fonts/glyphicons-halflings-regular.svg</tspan>
-<tspan x="10" y="1082"> 66.  2017-04-11 11:23:43 +0000    45404 bytes  build/fonts/glyphicons-halflings-regular.ttf</tspan>
-<tspan x="10" y="1098"> 67.  2017-04-11 11:23:43 +0000    23424 bytes  build/fonts/glyphicons-halflings-regular.woff</tspan>
-<tspan x="10" y="1114"> 68.  2017-04-11 11:23:43 +0000    18028 bytes  build/fonts/glyphicons-halflings-regular.woff2</tspan>
-<tspan x="10" y="1130"> 69.  2017-04-11 11:23:43 +0000      195 bytes  build/gridfs-2a2de6ba63e24c52de65.min.js</tspan>
-<tspan x="10" y="1146"> 70.  2017-04-11 11:23:43 +0000    17847 bytes  build/img/favicon.ico</tspan>
-<tspan x="10" y="1162"> 71.  2017-04-11 11:23:43 +0000    50281 bytes  build/img/gears.gif</tspan>
-<tspan x="10" y="1178"> 72.  2017-04-11 11:23:43 +0000   386440 bytes  build/img/mongo-express-logo.ai</tspan>
-<tspan x="10" y="1194"> 73.  2017-04-11 11:23:43 +0000    17847 bytes  build/img/mongo-express-logo.png</tspan>
-<tspan x="10" y="1210"> 74.  2017-04-11 11:23:43 +0000     1440 bytes  build/img/mongo-express-logo.svg</tspan>
-<tspan x="10" y="1226"> 75.  2017-04-11 11:23:43 +0000     1061 bytes  build/index-0af79c4bc1f73b76cf92.min.js</tspan>
-<tspan x="10" y="1242"> 76.  2017-04-11 11:23:43 +0000   125889 bytes  build/vendor-079ebacfd51583d20206.min.js</tspan>
-<tspan x="10" y="1258"> 77.  2017-04-11 11:23:43 +0000     6863 bytes  config.default.js</tspan>
-<tspan x="10" y="1274"> 78.  2017-04-11 11:23:43 +0000     3510 bytes  lib/bson.js</tspan>
-<tspan x="10" y="1290"> 79.  2017-04-11 11:23:43 +0000      613 bytes  lib/csv.js</tspan>
-<tspan x="10" y="1306"> 80.  2017-04-11 11:23:43 +0000     5190 bytes  lib/db.js</tspan>
-<tspan x="10" y="1322"> 81.  2017-04-11 11:23:43 +0000     4773 bytes  lib/filters.js</tspan>
-<tspan x="10" y="1338"> 82.  2017-04-11 11:23:43 +0000     7825 bytes  lib/json.js</tspan>
-<tspan x="10" y="1354"> 83.  2017-04-11 11:23:43 +0000     1006 bytes  lib/middleware.js</tspan>
-<tspan x="10" y="1370"> 84.  2017-04-11 11:23:43 +0000    11474 bytes  lib/router.js</tspan>
-<tspan x="10" y="1386"> 85.  2017-04-11 11:23:43 +0000    15870 bytes  lib/routes/collection.js</tspan>
-<tspan x="10" y="1402"> 86.  2017-04-11 11:23:43 +0000     3631 bytes  lib/routes/database.js</tspan>
-<tspan x="10" y="1418"> 87.  2017-04-11 11:23:43 +0000     3580 bytes  lib/routes/document.js</tspan>
-<tspan x="10" y="1434"> 88.  2017-04-11 11:23:43 +0000     5157 bytes  lib/routes/gridfs.js</tspan>
-<tspan x="10" y="1450"> 89.  2017-04-11 11:23:43 +0000     2571 bytes  lib/routes/index.js</tspan>
-<tspan x="10" y="1466"> 90.  2017-04-11 11:23:43 +0000      113 bytes  lib/scripts/codeMirrorLoader.js</tspan>
-<tspan x="10" y="1482"> 91.  2017-04-11 11:23:43 +0000     7848 bytes  lib/scripts/collection.js</tspan>
-<tspan x="10" y="1498"> 92.  2017-04-11 11:23:43 +0000     1199 bytes  lib/scripts/database.js</tspan>
-<tspan x="10" y="1514"> 93.  2017-04-11 11:23:43 +0000     1404 bytes  lib/scripts/document.js</tspan>
-<tspan x="10" y="1530"> 94.  2017-04-11 11:23:43 +0000      164 bytes  lib/scripts/gridfs.js</tspan>
-<tspan x="10" y="1546"> 95.  2017-04-11 11:23:43 +0000     1158 bytes  lib/scripts/index.js</tspan>
-<tspan x="10" y="1562"> 96.  2017-04-11 11:23:43 +0000       55 bytes  lib/scripts/jQueryLoader.js</tspan>
-<tspan x="10" y="1578"> 97.  2017-04-11 11:23:43 +0000      143 bytes  lib/scripts/vendor.js</tspan>
-<tspan x="10" y="1594"> 98.  2017-04-11 11:23:43 +0000     2927 bytes  lib/utils.js</tspan>
-<tspan x="10" y="1610"> 99.  2017-04-11 11:23:43 +0000    22339 bytes  lib/views/collection.html</tspan>
-<tspan x="10" y="1626">100.  2017-04-11 11:23:43 +0000     7710 bytes  lib/views/database.html</tspan>
-<tspan x="10" y="1642">101.  2017-04-11 11:23:43 +0000     4234 bytes  lib/views/document.html</tspan>
-<tspan x="10" y="1658">102.  2017-04-11 11:23:43 +0000     3639 bytes  lib/views/gridfs.html</tspan>
-<tspan x="10" y="1674">103.  2017-04-11 11:23:43 +0000     6531 bytes  lib/views/index.html</tspan>
-<tspan x="10" y="1690">104.  2017-04-11 11:23:43 +0000     3130 bytes  lib/views/layout.html</tspan>
-<tspan x="10" y="1706">105.  2017-04-11 11:23:43 +0000      203 bytes  manifest.yml</tspan>
-<tspan x="10" y="1722">106.  2017-04-11 11:23:43 +0000     4433 bytes  package.json</tspan>
-<tspan x="10" y="1738">107.  2017-04-11 11:23:43 +0000    17847 bytes  public/images/favicon.ico</tspan>
-<tspan x="10" y="1754">108.  2017-04-11 11:23:43 +0000    50281 bytes  public/images/gears.gif</tspan>
-<tspan x="10" y="1770">109.  2017-04-11 11:23:43 +0000   386440 bytes  public/images/mongo-express-logo.ai</tspan>
-<tspan x="10" y="1786">110.  2017-04-11 11:23:43 +0000    17847 bytes  public/images/mongo-express-logo.png</tspan>
-<tspan x="10" y="1802">111.  2017-04-11 11:23:43 +0000     1440 bytes  public/images/mongo-express-logo.svg</tspan>
-<tspan x="10" y="1818">112.  2017-04-11 11:23:43 +0000     1838 bytes  public/stylesheets/style.css</tspan>
-<tspan x="10" y="1834">113.  2017-04-11 11:23:43 +0000     7052 bytes  test/lib/bsonSpec.js</tspan>
-<tspan x="10" y="1850">114.  2017-04-11 11:23:43 +0000     1124 bytes  test/lib/csvSpec.js</tspan>
-<tspan x="10" y="1866">115.  2017-04-11 11:23:43 +0000     1894 bytes  test/lib/routers/collectionSpec.js</tspan>
-<tspan x="10" y="1882">116.  2017-04-11 11:23:43 +0000     1201 bytes  test/lib/routers/databaseSpec.js</tspan>
-<tspan x="10" y="1898">117.  2017-04-11 11:23:43 +0000     1355 bytes  test/lib/routers/documentSpec.js</tspan>
-<tspan x="10" y="1914">118.  2017-04-11 11:23:43 +0000     1047 bytes  test/lib/routers/indexSpec.js</tspan>
-<tspan x="10" y="1930">119.  2017-04-11 11:23:43 +0000       27 bytes  test/mocha.opts</tspan>
-<tspan x="10" y="1946">120.  2017-04-11 11:23:43 +0000      744 bytes  test/testDefaultConfig.js</tspan>
-<tspan x="10" y="1962">121.  2017-04-11 11:23:43 +0000      734 bytes  test/testHttpUtils.js</tspan>
-<tspan x="10" y="1978">122.  2017-04-11 11:23:43 +0000      228 bytes  test/testMongoConfig.js</tspan>
-<tspan x="10" y="1994">123.  2017-04-11 11:23:43 +0000     1319 bytes  test/testMongoUtils.js</tspan>
-<tspan x="10" y="2010">124.  2017-04-11 11:23:43 +0000      301 bytes  test/testUtils.js</tspan>
-<tspan x="10" y="2026">125.  2017-04-11 11:23:43 +0000     2618 bytes  webpack.config.js</tspan>
+<tspan x="10" y="26">  0.  2017-04-11 11:25:42 +0000  2509671 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-11 11:25:42 +0000     1146 bytes  Dockerfile</tspan>
+<tspan x="10" y="58">  2.  2017-04-11 11:25:42 +0000     4294 bytes  HISTORY.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-11 11:25:42 +0000    13138 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-11 11:25:42 +0000     4161 bytes  app.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-11 11:25:42 +0000      443 bytes  build-assets.json</tspan>
+<tspan x="10" y="122">  6.  2017-04-11 11:25:42 +0000   175943 bytes  build/codemirror-1cf5d807764f361f5011.min.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-11 11:25:42 +0000     9357 bytes  build/collection-b774588cca8f6e9a8c83.min.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-11 11:25:42 +0000    23409 bytes  build/css/bootstrap-theme.min.css</tspan>
+<tspan x="10" y="170">  9.  2017-04-11 11:25:42 +0000    25648 bytes  build/css/bootstrap-theme.min.css.map</tspan>
+<tspan x="10" y="186"> 10.  2017-04-11 11:25:42 +0000   121200 bytes  build/css/bootstrap.min.css</tspan>
+<tspan x="10" y="202"> 11.  2017-04-11 11:25:42 +0000   542194 bytes  build/css/bootstrap.min.css.map</tspan>
+<tspan x="10" y="218"> 12.  2017-04-11 11:25:42 +0000     8217 bytes  build/css/codemirror.css</tspan>
+<tspan x="10" y="234"> 13.  2017-04-11 11:25:42 +0000     1838 bytes  build/css/style.css</tspan>
+<tspan x="10" y="250"> 14.  2017-04-11 11:25:42 +0000     1987 bytes  build/css/theme/3024-day.css</tspan>
+<tspan x="10" y="266"> 15.  2017-04-11 11:25:42 +0000     2076 bytes  build/css/theme/3024-night.css</tspan>
+<tspan x="10" y="282"> 16.  2017-04-11 11:25:42 +0000     1942 bytes  build/css/theme/abcdef.css</tspan>
+<tspan x="10" y="298"> 17.  2017-04-11 11:25:42 +0000      103 bytes  build/css/theme/ambiance-mobile.css</tspan>
+<tspan x="10" y="314"> 18.  2017-04-11 11:25:42 +0000    26468 bytes  build/css/theme/ambiance.css</tspan>
+<tspan x="10" y="330"> 19.  2017-04-11 11:25:42 +0000     2112 bytes  build/css/theme/base16-dark.css</tspan>
+<tspan x="10" y="346"> 20.  2017-04-11 11:25:42 +0000     2114 bytes  build/css/theme/base16-light.css</tspan>
+<tspan x="10" y="362"> 21.  2017-04-11 11:25:42 +0000     1413 bytes  build/css/theme/bespin.css</tspan>
+<tspan x="10" y="378"> 22.  2017-04-11 11:25:42 +0000     1931 bytes  build/css/theme/blackboard.css</tspan>
+<tspan x="10" y="394"> 23.  2017-04-11 11:25:42 +0000     1703 bytes  build/css/theme/cobalt.css</tspan>
+<tspan x="10" y="410"> 24.  2017-04-11 11:25:42 +0000     1647 bytes  build/css/theme/colorforth.css</tspan>
+<tspan x="10" y="426"> 25.  2017-04-11 11:25:42 +0000     2014 bytes  build/css/theme/dracula.css</tspan>
+<tspan x="10" y="442"> 26.  2017-04-11 11:25:42 +0000     2581 bytes  build/css/theme/duotone-dark.css</tspan>
+<tspan x="10" y="458"> 27.  2017-04-11 11:25:42 +0000     2685 bytes  build/css/theme/duotone-light.css</tspan>
+<tspan x="10" y="474"> 28.  2017-04-11 11:25:42 +0000     1159 bytes  build/css/theme/eclipse.css</tspan>
+<tspan x="10" y="490"> 29.  2017-04-11 11:25:42 +0000      781 bytes  build/css/theme/elegant.css</tspan>
+<tspan x="10" y="506"> 30.  2017-04-11 11:25:42 +0000     2254 bytes  build/css/theme/erlang-dark.css</tspan>
+<tspan x="10" y="522"> 31.  2017-04-11 11:25:42 +0000     1469 bytes  build/css/theme/hopscotch.css</tspan>
+<tspan x="10" y="538"> 32.  2017-04-11 11:25:42 +0000     2499 bytes  build/css/theme/icecoder.css</tspan>
+<tspan x="10" y="554"> 33.  2017-04-11 11:25:42 +0000     1442 bytes  build/css/theme/isotope.css</tspan>
+<tspan x="10" y="570"> 34.  2017-04-11 11:25:42 +0000     2599 bytes  build/css/theme/lesser-dark.css</tspan>
+<tspan x="10" y="586"> 35.  2017-04-11 11:25:42 +0000     3930 bytes  build/css/theme/liquibyte.css</tspan>
+<tspan x="10" y="602"> 36.  2017-04-11 11:25:42 +0000     2441 bytes  build/css/theme/material.css</tspan>
+<tspan x="10" y="618"> 37.  2017-04-11 11:25:42 +0000     2112 bytes  build/css/theme/mbo.css</tspan>
+<tspan x="10" y="634"> 38.  2017-04-11 11:25:42 +0000     5167 bytes  build/css/theme/mdn-like.css</tspan>
+<tspan x="10" y="650"> 39.  2017-04-11 11:25:42 +0000     2138 bytes  build/css/theme/midnight.css</tspan>
+<tspan x="10" y="666"> 40.  2017-04-11 11:25:42 +0000     1915 bytes  build/css/theme/monokai.css</tspan>
+<tspan x="10" y="682"> 41.  2017-04-11 11:25:42 +0000      688 bytes  build/css/theme/neat.css</tspan>
+<tspan x="10" y="698"> 42.  2017-04-11 11:25:42 +0000      947 bytes  build/css/theme/neo.css</tspan>
+<tspan x="10" y="714"> 43.  2017-04-11 11:25:42 +0000     1720 bytes  build/css/theme/night.css</tspan>
+<tspan x="10" y="730"> 44.  2017-04-11 11:25:42 +0000     1775 bytes  build/css/theme/panda-syntax.css</tspan>
+<tspan x="10" y="746"> 45.  2017-04-11 11:25:42 +0000     2078 bytes  build/css/theme/paraiso-dark.css</tspan>
+<tspan x="10" y="762"> 46.  2017-04-11 11:25:42 +0000     2078 bytes  build/css/theme/paraiso-light.css</tspan>
+<tspan x="10" y="778"> 47.  2017-04-11 11:25:42 +0000     2450 bytes  build/css/theme/pastel-on-dark.css</tspan>
+<tspan x="10" y="794"> 48.  2017-04-11 11:25:42 +0000     1514 bytes  build/css/theme/railscasts.css</tspan>
+<tspan x="10" y="810"> 49.  2017-04-11 11:25:42 +0000     1772 bytes  build/css/theme/rubyblue.css</tspan>
+<tspan x="10" y="826"> 50.  2017-04-11 11:25:42 +0000     1984 bytes  build/css/theme/seti.css</tspan>
+<tspan x="10" y="842"> 51.  2017-04-11 11:25:42 +0000     5444 bytes  build/css/theme/solarized.css</tspan>
+<tspan x="10" y="858"> 52.  2017-04-11 11:25:42 +0000     1909 bytes  build/css/theme/the-matrix.css</tspan>
+<tspan x="10" y="874"> 53.  2017-04-11 11:25:42 +0000     1769 bytes  build/css/theme/tomorrow-night-bright.css</tspan>
+<tspan x="10" y="890"> 54.  2017-04-11 11:25:42 +0000     2439 bytes  build/css/theme/tomorrow-night-eighties.css</tspan>
+<tspan x="10" y="906"> 55.  2017-04-11 11:25:42 +0000     2419 bytes  build/css/theme/ttcn.css</tspan>
+<tspan x="10" y="922"> 56.  2017-04-11 11:25:42 +0000     2135 bytes  build/css/theme/twilight.css</tspan>
+<tspan x="10" y="938"> 57.  2017-04-11 11:25:42 +0000     2111 bytes  build/css/theme/vibrant-ink.css</tspan>
+<tspan x="10" y="954"> 58.  2017-04-11 11:25:42 +0000     3005 bytes  build/css/theme/xq-dark.css</tspan>
+<tspan x="10" y="970"> 59.  2017-04-11 11:25:42 +0000     2226 bytes  build/css/theme/xq-light.css</tspan>
+<tspan x="10" y="986"> 60.  2017-04-11 11:25:42 +0000     1859 bytes  build/css/theme/yeti.css</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-11 11:25:42 +0000     1990 bytes  build/css/theme/zenburn.css</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-11 11:25:42 +0000     1101 bytes  build/database-a2a6263b2862ba8966c0.min.js</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-11 11:25:42 +0000     1237 bytes  build/document-a23d7614559f854746f3.min.js</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-11 11:25:42 +0000    20127 bytes  build/fonts/glyphicons-halflings-regular.eot</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-11 11:25:42 +0000   108738 bytes  build/fonts/glyphicons-halflings-regular.svg</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-11 11:25:42 +0000    45404 bytes  build/fonts/glyphicons-halflings-regular.ttf</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-11 11:25:42 +0000    23424 bytes  build/fonts/glyphicons-halflings-regular.woff</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-11 11:25:42 +0000    18028 bytes  build/fonts/glyphicons-halflings-regular.woff2</tspan>
+<tspan x="10" y="1130"> 69.  2017-04-11 11:25:42 +0000      195 bytes  build/gridfs-2a2de6ba63e24c52de65.min.js</tspan>
+<tspan x="10" y="1146"> 70.  2017-04-11 11:25:42 +0000    17847 bytes  build/img/favicon.ico</tspan>
+<tspan x="10" y="1162"> 71.  2017-04-11 11:25:42 +0000    50281 bytes  build/img/gears.gif</tspan>
+<tspan x="10" y="1178"> 72.  2017-04-11 11:25:42 +0000   386440 bytes  build/img/mongo-express-logo.ai</tspan>
+<tspan x="10" y="1194"> 73.  2017-04-11 11:25:42 +0000    17847 bytes  build/img/mongo-express-logo.png</tspan>
+<tspan x="10" y="1210"> 74.  2017-04-11 11:25:42 +0000     1440 bytes  build/img/mongo-express-logo.svg</tspan>
+<tspan x="10" y="1226"> 75.  2017-04-11 11:25:42 +0000     1061 bytes  build/index-0af79c4bc1f73b76cf92.min.js</tspan>
+<tspan x="10" y="1242"> 76.  2017-04-11 11:25:42 +0000   125889 bytes  build/vendor-079ebacfd51583d20206.min.js</tspan>
+<tspan x="10" y="1258"> 77.  2017-04-11 11:25:42 +0000     6863 bytes  config.default.js</tspan>
+<tspan x="10" y="1274"> 78.  2017-04-11 11:25:42 +0000     3510 bytes  lib/bson.js</tspan>
+<tspan x="10" y="1290"> 79.  2017-04-11 11:25:42 +0000      613 bytes  lib/csv.js</tspan>
+<tspan x="10" y="1306"> 80.  2017-04-11 11:25:42 +0000     5190 bytes  lib/db.js</tspan>
+<tspan x="10" y="1322"> 81.  2017-04-11 11:25:42 +0000     4773 bytes  lib/filters.js</tspan>
+<tspan x="10" y="1338"> 82.  2017-04-11 11:25:42 +0000     7825 bytes  lib/json.js</tspan>
+<tspan x="10" y="1354"> 83.  2017-04-11 11:25:42 +0000     1006 bytes  lib/middleware.js</tspan>
+<tspan x="10" y="1370"> 84.  2017-04-11 11:25:42 +0000    11474 bytes  lib/router.js</tspan>
+<tspan x="10" y="1386"> 85.  2017-04-11 11:25:42 +0000    15870 bytes  lib/routes/collection.js</tspan>
+<tspan x="10" y="1402"> 86.  2017-04-11 11:25:42 +0000     3631 bytes  lib/routes/database.js</tspan>
+<tspan x="10" y="1418"> 87.  2017-04-11 11:25:42 +0000     3580 bytes  lib/routes/document.js</tspan>
+<tspan x="10" y="1434"> 88.  2017-04-11 11:25:42 +0000     5157 bytes  lib/routes/gridfs.js</tspan>
+<tspan x="10" y="1450"> 89.  2017-04-11 11:25:42 +0000     2571 bytes  lib/routes/index.js</tspan>
+<tspan x="10" y="1466"> 90.  2017-04-11 11:25:42 +0000      113 bytes  lib/scripts/codeMirrorLoader.js</tspan>
+<tspan x="10" y="1482"> 91.  2017-04-11 11:25:42 +0000     7848 bytes  lib/scripts/collection.js</tspan>
+<tspan x="10" y="1498"> 92.  2017-04-11 11:25:42 +0000     1199 bytes  lib/scripts/database.js</tspan>
+<tspan x="10" y="1514"> 93.  2017-04-11 11:25:42 +0000     1404 bytes  lib/scripts/document.js</tspan>
+<tspan x="10" y="1530"> 94.  2017-04-11 11:25:42 +0000      164 bytes  lib/scripts/gridfs.js</tspan>
+<tspan x="10" y="1546"> 95.  2017-04-11 11:25:42 +0000     1158 bytes  lib/scripts/index.js</tspan>
+<tspan x="10" y="1562"> 96.  2017-04-11 11:25:42 +0000       55 bytes  lib/scripts/jQueryLoader.js</tspan>
+<tspan x="10" y="1578"> 97.  2017-04-11 11:25:42 +0000      143 bytes  lib/scripts/vendor.js</tspan>
+<tspan x="10" y="1594"> 98.  2017-04-11 11:25:42 +0000     2927 bytes  lib/utils.js</tspan>
+<tspan x="10" y="1610"> 99.  2017-04-11 11:25:42 +0000    22339 bytes  lib/views/collection.html</tspan>
+<tspan x="10" y="1626">100.  2017-04-11 11:25:42 +0000     7710 bytes  lib/views/database.html</tspan>
+<tspan x="10" y="1642">101.  2017-04-11 11:25:42 +0000     4234 bytes  lib/views/document.html</tspan>
+<tspan x="10" y="1658">102.  2017-04-11 11:25:42 +0000     3639 bytes  lib/views/gridfs.html</tspan>
+<tspan x="10" y="1674">103.  2017-04-11 11:25:42 +0000     6531 bytes  lib/views/index.html</tspan>
+<tspan x="10" y="1690">104.  2017-04-11 11:25:42 +0000     3130 bytes  lib/views/layout.html</tspan>
+<tspan x="10" y="1706">105.  2017-04-11 11:25:42 +0000      203 bytes  manifest.yml</tspan>
+<tspan x="10" y="1722">106.  2017-04-11 11:25:42 +0000     4433 bytes  package.json</tspan>
+<tspan x="10" y="1738">107.  2017-04-11 11:25:42 +0000    17847 bytes  public/images/favicon.ico</tspan>
+<tspan x="10" y="1754">108.  2017-04-11 11:25:42 +0000    50281 bytes  public/images/gears.gif</tspan>
+<tspan x="10" y="1770">109.  2017-04-11 11:25:42 +0000   386440 bytes  public/images/mongo-express-logo.ai</tspan>
+<tspan x="10" y="1786">110.  2017-04-11 11:25:42 +0000    17847 bytes  public/images/mongo-express-logo.png</tspan>
+<tspan x="10" y="1802">111.  2017-04-11 11:25:42 +0000     1440 bytes  public/images/mongo-express-logo.svg</tspan>
+<tspan x="10" y="1818">112.  2017-04-11 11:25:42 +0000     1838 bytes  public/stylesheets/style.css</tspan>
+<tspan x="10" y="1834">113.  2017-04-11 11:25:42 +0000     7052 bytes  test/lib/bsonSpec.js</tspan>
+<tspan x="10" y="1850">114.  2017-04-11 11:25:42 +0000     1124 bytes  test/lib/csvSpec.js</tspan>
+<tspan x="10" y="1866">115.  2017-04-11 11:25:42 +0000     1894 bytes  test/lib/routers/collectionSpec.js</tspan>
+<tspan x="10" y="1882">116.  2017-04-11 11:25:42 +0000     1201 bytes  test/lib/routers/databaseSpec.js</tspan>
+<tspan x="10" y="1898">117.  2017-04-11 11:25:42 +0000     1355 bytes  test/lib/routers/documentSpec.js</tspan>
+<tspan x="10" y="1914">118.  2017-04-11 11:25:42 +0000     1047 bytes  test/lib/routers/indexSpec.js</tspan>
+<tspan x="10" y="1930">119.  2017-04-11 11:25:42 +0000       27 bytes  test/mocha.opts</tspan>
+<tspan x="10" y="1946">120.  2017-04-11 11:25:42 +0000      744 bytes  test/testDefaultConfig.js</tspan>
+<tspan x="10" y="1962">121.  2017-04-11 11:25:42 +0000      734 bytes  test/testHttpUtils.js</tspan>
+<tspan x="10" y="1978">122.  2017-04-11 11:25:42 +0000      228 bytes  test/testMongoConfig.js</tspan>
+<tspan x="10" y="1994">123.  2017-04-11 11:25:42 +0000     1319 bytes  test/testMongoUtils.js</tspan>
+<tspan x="10" y="2010">124.  2017-04-11 11:25:42 +0000      301 bytes  test/testUtils.js</tspan>
+<tspan x="10" y="2026">125.  2017-04-11 11:25:42 +0000     2618 bytes  webpack.config.js</tspan>
 </text>
 </svg>
