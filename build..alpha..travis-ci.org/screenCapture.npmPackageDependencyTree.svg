@@ -4,7 +4,7 @@
 <tspan x="10" y="26">28 megabytes installed</tspan>
 <tspan x="10" y="42"></tspan>
 <tspan x="10" y="58">node_modules</tspan>
-<tspan x="10" y="74">└─┬ mongo-express@0.39.1 </tspan>
+<tspan x="10" y="74">└─┬ mongo-express@0.39.2 </tspan>
 <tspan x="10" y="90">  ├── async@2.0.1 </tspan>
 <tspan x="10" y="106">  ├── basic-auth-connect@1.0.0 </tspan>
 <tspan x="10" y="122">  ├─┬ body-parser@1.15.2 </tspan>
