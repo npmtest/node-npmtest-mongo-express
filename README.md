@@ -1,4 +1,7 @@
-# test coverage for  [mongo-express (v0.39.2)](https://github.com/mongo-express/mongo-express#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-mongo-express.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mongo-express) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mongo-express.svg)](https://travis-ci.org/npmtest/node-npmtest-mongo-express)
+# npmtest-mongo-express
+
+#### basic test coverage for  mongo-express (v0.39.2)  [![npm package](https://img.shields.io/npm/v/npmtest-mongo-express.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-mongo-express) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-mongo-express.svg)](https://travis-ci.org/npmtest/node-npmtest-mongo-express)
+
 #### Web-based admin interface for MongoDB
 
 [![NPM](https://nodei.co/npm/mongo-express.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/mongo-express)
@@ -32,14 +35,31 @@
 ```json
 
 {
-    "author": {
-        "name": "https://github.com/mongo-express"
-    },
+    "version": "0.39.2",
+    "author": "https://github.com/mongo-express",
+    "name": "mongo-express",
+    "description": "Web-based admin interface for MongoDB",
+    "keywords": [
+        "admin",
+        "administration",
+        "collection",
+        "database",
+        "GUI",
+        "interface",
+        "manage",
+        "manage-mongo",
+        "mongo",
+        "mongodb",
+        "phpmyadmin",
+        "UI",
+        "web-based"
+    ],
     "bin": {
         "mongo-express": "./app.js"
     },
-    "bugs": {
-        "url": "https://github.com/mongo-express/mongo-express/issues"
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/mongo-express/mongo-express.git"
     },
     "dependencies": {
         "async": "2.0.1",
@@ -65,7 +85,6 @@
         "swig-templates": "2.0.2",
         "update-notifier": "1.0.2"
     },
-    "description": "Web-based admin interface for MongoDB",
     "devDependencies": {
         "assets-webpack-plugin": "^3.5.1",
         "babel-core": "^6.24.1",
@@ -85,70 +104,30 @@
         "mocha": "3.0.2",
         "nodemon": "^1.11.0",
         "pre-commit": "1.1.3",
-        "renderjson": "github:dozoisch/renderjson#cd0ef870c1298d53f09555da54e4bf57a0d21414",
+        "renderjson": "dozoisch/renderjson#cd0ef870c1298d53f09555da54e4bf57a0d21414",
         "supertest": "^3.0.0",
         "webpack": "^2.4.1"
-    },
-    "directories": {},
-    "dist": {
-        "shasum": "85d74152cad5a95fa597ea01a330e8b6ed1abd98",
-        "tarball": "https://registry.npmjs.org/mongo-express/-/mongo-express-0.39.2.tgz"
     },
     "engines": {
         "node": ">=4.0.0",
         "npm": ">=3.0.0"
     },
-    "gitHead": "ee5b385667b5903d7b4e81482095e14c026ef161",
-    "homepage": "https://github.com/mongo-express/mongo-express#readme",
-    "keywords": [
-        "admin",
-        "administration",
-        "collection",
-        "database",
-        "GUI",
-        "interface",
-        "manage",
-        "manage-mongo",
-        "mongo",
-        "mongodb",
-        "phpmyadmin",
-        "UI",
-        "web-based"
-    ],
     "license": "MIT",
-    "main": "./middleware",
-    "maintainers": [
-        {
-            "name": "andz"
-        },
-        {
-            "name": "dozoisch"
-        },
-        {
-            "name": "wulfsolter"
-        }
-    ],
-    "name": "mongo-express",
-    "optionalDependencies": {},
+    "scripts": {
+        "lint": "eslint .",
+        "start": "cross-env NODE_ENV=production node app",
+        "start-dev": "concurrently --kill-others \"nodemon app\" \"npm run build-dev\"",
+        "build-dev": "webpack --watch",
+        "build": "cross-env NODE_ENV=production webpack",
+        "test": "npm run mocha && npm run lint",
+        "mocha": "cross-env NODE_ENV=test mocha",
+        "test-watch": "cross-env NODE_ENV=test mocha --watch --reporter spec",
+        "prepublish": "npm run build"
+    },
     "pre-commit": [
         "test"
     ],
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/mongo-express/mongo-express.git"
-    },
-    "scripts": {
-        "build": "cross-env NODE_ENV=production webpack",
-        "build-dev": "webpack --watch",
-        "lint": "eslint .",
-        "mocha": "cross-env NODE_ENV=test mocha",
-        "prepublish": "npm run build",
-        "start": "cross-env NODE_ENV=production node app",
-        "start-dev": "concurrently --kill-others \"nodemon app\" \"npm run build-dev\"",
-        "test": "npm run mocha && npm run lint",
-        "test-watch": "cross-env NODE_ENV=test mocha --watch --reporter spec"
-    },
-    "version": "0.39.2"
+    "main": "./middleware"
 }
 ```
 
